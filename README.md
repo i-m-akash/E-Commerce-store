@@ -24,3 +24,4 @@ A simple and responsive single-page layout for showcasing service-based offering
 
 ## 📁 Project Structure
 
+![image](https://github.com/user-attachments/assets/605ba872-ed2a-4274-acad-9946f90d41de)
